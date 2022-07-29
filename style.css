@@ -1,0 +1,43 @@
+
+ul > .nav-item > .nav-link{
+    color: gray;
+}
+.para{
+    color: gray;
+}
+.img{
+    filter: brightness(50%);
+    height: 100vh;
+}
+.card-text{
+    color: gray;
+}
+.b-info{
+    background-color: #F4FAFD;
+}
+.online-course{
+    background-color: gray;
+}
+.box{
+    width: 100%;
+    height: 30vh;
+    background-color: rgb(66, 66, 199);
+}
+h6{
+    font-weight: bold;
+}
+.comapny>img{
+    width: 100px;
+}
+footer{
+    color: #F4FAFD;
+    width: 100%;
+    height: 50vh;
+    background-color: Black;
+}
+
+@media only screen and (max-width:576){
+    .container{
+        background-color: red;;
+    }
+}
